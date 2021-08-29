@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @imharshadraval
 - 👀 I’m interested in Web Development Programming.
 - 🌱 I’m currently learning new technologies.
-- 📫 imharshadraval is the word you can use to reach me on every popular site :)
+- 📫 **_imharshadraval_** is the word you can use to reach me on every popular site :)
